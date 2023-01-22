@@ -1,10 +1,12 @@
 import React from 'react';
-import Login from "./components/Login/Login";
+import styles from './App.module.css'
+import Auth from "./_components/Auth/Auth";
+
 
 function App() {
   return (
-    <div>
-      <Login />
+    <div className={styles.App}>
+      <Auth />
     </div>
   );
 }
