@@ -11,10 +11,14 @@ Initialisation commands:
 <pre>
 npx create-react-app . --template redux-typescript
 npm i -g ts-node
-npm i -D json-server json-server-auth
-npm i -D @types/json-server @types/json-server-auth
-npm i -D concurrently
+npm i antd @ant-design/icons
 npm i react-router react-router-dom compose-function
+npm i effector effector-react
+npm i axios
+npm i normalizr
+npm i -D json-server json-server-auth
+npm i -D concurrently
+npm i -D @types/json-server @types/json-server-auth
 npm i -D @types/react-router @types/react-router-dom @types/compose-function
 </pre>
 

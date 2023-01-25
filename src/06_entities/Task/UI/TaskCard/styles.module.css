@@ -1,0 +1,8 @@
+.root {
+  padding: 40px;
+}
+.root + .root {
+  margin: 20px;
+}
+
+/*# sourceMappingURL=styles.module.css.map */

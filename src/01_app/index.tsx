@@ -1,12 +1,13 @@
 import './index.css';
 import React from 'react';
+import { WithRouter } from "./router";
 
 const App = () => {
     return (
         <div>
-            App
+            <WithRouter />
         </div>
     );
 };
 
-export default App;
+export default App
