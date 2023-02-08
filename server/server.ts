@@ -1,7 +1,7 @@
-import * as jsonServer from 'json-server'
-import * as auth from 'json-server-auth'
-import express from'express'
-import path from 'path'
+import * as jsonServer from 'json-server';
+import * as auth from 'json-server-auth';
+import express = require("express");
+import path = require('path');
 
 const server = express();
 const router = jsonServer.router(path.join(__dirname, 'db.json'))

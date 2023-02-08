@@ -4,9 +4,9 @@ import { WithRouter } from "./router";
 
 const App = () => {
     return (
-        <div>
+        <>
             <WithRouter />
-        </div>
+        </>
     );
 };
 

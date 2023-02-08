@@ -17,6 +17,7 @@
     "compose-function": "^3.0.3",
     "effector": "^22.5.0",
     "effector-react": "^22.4.0",
+    "normalize.css": "^8.0.1",
     "normalizr": "^3.6.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

@@ -1,6 +1,10 @@
 :root {
-  --color-dark: #422d2d;
-  --color-primary: #20B2AA;
+  --color-white: #F2F2F2;
+  --color-black: #0f0f0f;
+  --color-gray-light: #d9d9d9;
+  --color-gray-mid: #afafaf;
+  --color-dark-brown: #422d2d;
+  --color-effect: #20B2AA;
 }
 
 /*# sourceMappingURL=vars.css.map */
